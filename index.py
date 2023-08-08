@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<script src="https://cdn.rawgit.com/google/pyscript/master/pyscript.min.js"></script>
-<py-script>
 import random
+
 
 def choose_word():
     words = [
@@ -82,7 +76,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-</py-script>
-</body>
-</html>
